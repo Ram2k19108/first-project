@@ -1,0 +1,56 @@
+header{
+    border: 2px solid black;
+}
+li{
+    display: inline;
+    margin: 10%;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: aqua;
+    background-image: url(hulk.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+}
+div{
+    float: left;
+}
+.a{
+ width: 15%;
+ border: 2px solid;
+}
+.b{
+    width: 65%;
+height: 500px;
+}
+.c{
+       width: 20%;
+}
+.m{
+    display: flex;
+}
+.b{
+overflow: scroll;
+}
+img{
+    border: 2px solid black;
+    height: 250px;
+    width: 100%;
+}
+.a1,.b1,.c1{ 
+    padding:30% 30% 30% 30%;
+   
+}
+.a1,.b1{
+    border-bottom: 2px solid;
+}
+img{
+    position:absolute;
+    z-index: -1;
+}
+.a12{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

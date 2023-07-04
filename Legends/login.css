@@ -1,0 +1,38 @@
+form{
+    margin-top: 10%;
+     margin-left: 30%;
+     border: 2PX SOLID;
+     position: fixed;
+ padding: 5%;
+ }
+ .a1{
+     width: 40%;
+    margin-left: 25%;}
+    input::placeholder{
+     text-align: center;
+    }
+.a2{
+  margin-left: 20%;
+  padding: 3% 20%;
+}
+body{
+    background: linear-gradient(to left,rgb(255, 254, 254),rgba(184, 181, 183, 0.979));
+ }
+ p{
+    margin-left: 25%;
+ }
+ button{
+    border-radius: 30%;
+    margin-left: 35%;
+    background-color: black;
+ }
+ a{
+    text-decoration: none;
+    color: aliceblue;
+ }
+ .a3{
+    color: blue;
+ }
+ .d1{
+    margin-top: 5%;
+ }
